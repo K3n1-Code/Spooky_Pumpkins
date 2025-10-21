@@ -1,0 +1,11 @@
+{
+  "parent": "spooky_pumpkins:custom/pumpkin_beacon",
+  "textures": {
+    "all": "spooky_pumpkins:block/pumpkin_beacon",
+    "particle": "spooky_pumpkins:block/pumpkin_beacon",
+    "0": "minecraft:block/dark_oak_planks",
+    "1": "minecraft:block/glass",
+    "2": "spooky_pumpkins:block/pumpkin_beacon"
+  },
+  "render_type": "cutout"
+}

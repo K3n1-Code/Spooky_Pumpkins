@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spooky_pumpkins:block/jack_o_frost"
+    },
+    "facing=east": {
+      "model": "spooky_pumpkins:block/jack_o_frost",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spooky_pumpkins:block/jack_o_frost",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spooky_pumpkins:block/jack_o_frost",
+      "y": 270
+    }
+  }
+}

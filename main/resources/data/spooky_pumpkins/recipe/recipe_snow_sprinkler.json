@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "spooky_pumpkins:sprinkler"
+    },
+    "b": {
+      "item": "minecraft:powder_snow_bucket"
+    }
+  },
+  "result": {
+    "id": "spooky_pumpkins:snow_sprinkler",
+    "count": 8
+  }
+}

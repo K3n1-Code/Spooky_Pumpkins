@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "spooky_pumpkins:rotten_pumpkin"
+    },
+    "b": {
+      "item": "minecraft:campfire"
+    },
+    "c": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "id": "spooky_pumpkins:pumpkin_smoker",
+    "count": 1
+  }
+}

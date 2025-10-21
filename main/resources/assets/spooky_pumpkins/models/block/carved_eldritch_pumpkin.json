@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spooky_pumpkins:block/eldritch_pumpkin_top",
+    "up": "spooky_pumpkins:block/eldritch_pumpkin_top",
+    "north": "spooky_pumpkins:block/carved_eldritch_pumpkin",
+    "east": "spooky_pumpkins:block/eldritch_pumpkin",
+    "south": "spooky_pumpkins:block/eldritch_pumpkin",
+    "west": "spooky_pumpkins:block/eldritch_pumpkin",
+    "particle": "spooky_pumpkins:block/eldritch_pumpkin_top"
+  },
+  "render_type": "solid"
+}

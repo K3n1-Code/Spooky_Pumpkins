@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "spooky_pumpkins:blocks/jack_o_golden",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "spooky_pumpkins:jack_o_golden"
+        }
+      ]
+    }
+  ]
+}

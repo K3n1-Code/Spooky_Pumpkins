@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "spooky_pumpkins:sprinkler"
+    },
+    "b": {
+      "item": "minecraft:sculk"
+    }
+  },
+  "result": {
+    "id": "spooky_pumpkins:sculk_sprinkler",
+    "count": 8
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "spooky_pumpkins:custom/pumpkin_smoker",
+  "textures": {
+    "all": "spooky_pumpkins:block/pumpkin_smoker_top",
+    "particle": "spooky_pumpkins:block/pumpkin_smoker_top",
+    "0": "minecraft:block/iron_bars",
+    "1": "minecraft:block/magma",
+    "2": "spooky_pumpkins:block/pumpkin_smoker_side",
+    "3": "spooky_pumpkins:block/pumpkin_smoker_top"
+  },
+  "render_type": "cutout_mipped"
+}

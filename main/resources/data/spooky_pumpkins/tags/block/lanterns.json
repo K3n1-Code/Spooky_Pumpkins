@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "spooky_pumpkins:rot_o_lantern",
+    "spooky_pumpkins:sculk_o_lantern",
+    "minecraft:jack_o_lantern",
+    "spooky_pumpkins:jack_o_frost",
+    "spooky_pumpkins:jack_o_golden"
+  ]
+}

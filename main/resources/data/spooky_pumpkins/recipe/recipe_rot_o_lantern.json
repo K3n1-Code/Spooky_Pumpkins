@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "spooky_pumpkins:carved_rotten_pumpkin"
+    },
+    "b": {
+      "item": "minecraft:lightning_rod"
+    }
+  },
+  "result": {
+    "id": "spooky_pumpkins:rot_o_lantern",
+    "count": 1
+  }
+}

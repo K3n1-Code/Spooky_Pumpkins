@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "spooky_pumpkins:sprinkler"
+    },
+    "b": {
+      "tag": "forge:fungi"
+    }
+  },
+  "result": {
+    "id": "spooky_pumpkins:spore_sprinkler",
+    "count": 8
+  }
+}

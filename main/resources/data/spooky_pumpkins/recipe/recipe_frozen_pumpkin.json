@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "pumpkin_spray",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "spooky_pumpkins:snow_sprinkler"
+    }
+  ],
+  "result": {
+    "id": "spooky_pumpkins:frosted_pumpkin",
+    "count": 1
+  }
+}

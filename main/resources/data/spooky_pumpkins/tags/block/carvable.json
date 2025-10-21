@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "spooky_pumpkins:frosted_pumpkin",
+    "spooky_pumpkins:rotten_pumpkin",
+    "spooky_pumpkins:golden_pumpkin",
+    "spooky_pumpkins:eldritch_pumpkin"
+  ]
+}

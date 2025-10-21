@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "spooky_pumpkins:carved_eldritch_pumpkin"
+    },
+    "b": {
+      "item": "minecraft:end_rod"
+    }
+  },
+  "result": {
+    "id": "spooky_pumpkins:sculk_o_lantern",
+    "count": 1
+  }
+}

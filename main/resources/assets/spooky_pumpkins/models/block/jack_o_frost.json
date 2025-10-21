@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spooky_pumpkins:block/frost_pumpkin_top",
+    "up": "spooky_pumpkins:block/frost_pumpkin_top",
+    "north": "spooky_pumpkins:block/jack_o_frost",
+    "east": "spooky_pumpkins:block/frost_pumpkin_side",
+    "south": "spooky_pumpkins:block/frost_pumpkin_side",
+    "west": "spooky_pumpkins:block/frost_pumpkin_side",
+    "particle": "spooky_pumpkins:block/frost_pumpkin_top"
+  },
+  "render_type": "solid"
+}

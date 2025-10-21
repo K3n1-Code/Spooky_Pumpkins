@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "pumpkin_spray",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "spooky_pumpkins:sculk_sprinkler"
+    }
+  ],
+  "result": {
+    "id": "spooky_pumpkins:eldritch_pumpkin",
+    "count": 1
+  }
+}

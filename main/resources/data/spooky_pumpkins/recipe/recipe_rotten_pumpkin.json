@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "pumpkin_spray",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "spooky_pumpkins:spore_sprinkler"
+    }
+  ],
+  "result": {
+    "id": "spooky_pumpkins:rotten_pumpkin",
+    "count": 1
+  }
+}

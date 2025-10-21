@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "spooky_pumpkins:carved_golden_pumpkin"
+    },
+    "b": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+  "result": {
+    "id": "spooky_pumpkins:jack_o_golden",
+    "count": 1
+  }
+}
